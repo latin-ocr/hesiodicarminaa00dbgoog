@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hesiodicarminaa00dbgoog_0518.png"; bbox 0 0 3790 5872; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 175 1924 1710 2464">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 175 1924 1710 2464">
+     <span class='ocr_line' id='line_1_1' title="bbox 444 1924 1570 2150; baseline 0.012 -46"><span class='ocrx_word' id='word_1_1' title='bbox 444 1930 735 2147; x_wconf 71' lang='lat' dir='ltr'><strong>Asu,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 799 1924 1428 2150; x_wconf 80' lang='lat' dir='ltr'><strong>PJSANDRI,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1566 2112 1570 2117; x_wconf 79' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 175 2310 1710 2464; baseline -0.003 -34"><span class='ocrx_word' id='word_1_4' title='bbox 175 2315 659 2464; x_wconf 85' lang='lat' dir='ltr'><strong>PANYASIDIS,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 700 2311 1046 2430; x_wconf 86' lang='lat' dir='ltr'>CHOERILI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1097 2313 1209 2428; x_wconf 85' lang='lat' dir='ltr'><strong>ET·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1245 2310 1710 2429; x_wconf 84' lang='lat' dir='ltr'><strong>ANTIMACHI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 467 2642 1440 2714">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 467 2642 1440 2714">
+     <span class='ocr_line' id='line_1_3' title="bbox 467 2642 1440 2714; baseline -0.005 -2"><span class='ocrx_word' id='word_1_8' title='bbox 467 2647 762 2714; x_wconf 75' lang='lat' dir='ltr'><strong>FRAGMENTA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 791 2646 885 2712; x_wconf 79' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 910 2644 1246 2712; x_wconf 77' lang='lat' dir='ltr'>ANNOTA&#39;I&#39;IONE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1272 2642 1440 2709; x_wconf 79' lang='lat' dir='ltr'><strong>EDIDIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 678 2878 1211 3009">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 678 2878 1211 3009">
+     <span class='ocr_line' id='line_1_4' title="bbox 678 2878 1211 3009; baseline -0.006 -2"><span class='ocrx_word' id='word_1_12' title='bbox 678 2916 873 3009; x_wconf 69' lang='lat' dir='ltr'><strong>Fam).</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 915 2878 1211 3008; x_wconf 75' lang='lat' dir='ltr'><strong>D&#39;UBNER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1900 5872">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1900 5872">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1900 5872; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1900 5872; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
